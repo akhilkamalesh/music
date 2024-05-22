@@ -1,0 +1,11 @@
+Key Functional Requirements:
+- Database to hold music and its respective mood classification
+- Interpreter that will be used to create project (Conda)
+- OOP structure to format how objects will be created
+- Backend that will run the neural network in which it will classify data
+- Type of neural network that will be used to create the classification
+- Python packages that will help analyze music
+
+Non key functional requirements:
+- Front end that will take input of the mood to create playlist on
+- OpenAI API that will convert mood into feelings that will be used to match classification with the return of neural network
